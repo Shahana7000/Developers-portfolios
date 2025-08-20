@@ -655,6 +655,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app)
 - [Muzaffer Kadir YILMAZ](https://mkdir.dev)
 - [mahdi.is-a.dev](http://mahdi.is-a.dev) [Try to Find the Easter Egg! :)]
+- [muhhamad shan](https://muhammad-shan.netlify.app/)
 
 ## N
 
@@ -917,6 +918,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Surya MU](https://surya-mu.me/)
 - [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
+  
 
 ## T
 
