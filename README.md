@@ -18,7 +18,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabid Ahmed](https://sawad.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
-- [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [Flutter Developer]
+- [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [[Flutter Developer]]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Aamir Malik](https://muhammadaamirmalik.com/)
