@@ -20,7 +20,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aabraham James](https://seera.framer.website/)
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [[Flutter Developer]]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
-- [Aakhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
+- [Aakhand Tajmirul](https://www.me.toinfinite.dev/) [[Frontend Engineer]]
 - [Aamir Malik](https://muhammadaamirmalik.com/)
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaron Lacerda](https://nightdev4l.me/index.html)
