@@ -1,5 +1,5 @@
 ___#################_____
-# Developer Portfolioss
+# Developer Portfoliosss
 
 A list of developer portfolios for your inspiration
 
